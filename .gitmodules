@@ -1,3 +1,6 @@
 [submodule "pi-totem-app"]
 	path = pi-totem-app
 	url = https://github.com/RodneyMorgan97/pi-totem-app.git
+[submodule "pi-totem-server"]
+	path = pi-totem-server
+	url = https://github.com/RodneyMorgan97/pi-totem-server.git
